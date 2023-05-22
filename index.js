@@ -50,16 +50,6 @@ function copiarPropriedade() {
     alert('Propriedade copiada: ' + textoCopiar.value)
 }
 
-// function igualarBordas() {
-//     validarCampos();
-    
 
-//     let valorBase = inputTopLeft.value;
-//     inputTopRight.value = valorBase;
-//     inputBottomRight.value = valorBase;
-//     inputBottomLeft.value = valorBase;
-
-//     atualizarPreviewer()
-// }
 
 
